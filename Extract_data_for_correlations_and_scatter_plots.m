@@ -1,4 +1,4 @@
-%% Extract data structure for use in correlation & scatter scripts (Mega Variable)
+%% Extract data structure for use in correlation & scatter plots (Mega Variable)
 
 tic
 disp(' ');      
